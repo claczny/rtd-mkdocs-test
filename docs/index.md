@@ -1,18 +1,19 @@
-# Welcome to MkDocs
+# Welcome to the documentation of the EMBO Practical course - Integrated multi-omic analyses of microbial communities (16 - 23 March 2020)
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+In the left sidebar, you can find an overview of the course and entries bringing you to the respective materials.
 
-## Commands
+## Basics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+A code block looks like the following:
+```
+Code blocks are in typewriter font and detail commands that should be executed
+Some of these commands will run quickly, other will take longer.
+```
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
+    /mnt/isilon/XXX/EMBO   # The main directory containing the input files as well as potentially results which were pre-generated.
+    docs/                  # The following are all relative to the main directory above
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
