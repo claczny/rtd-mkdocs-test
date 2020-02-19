@@ -20,7 +20,7 @@ nav:
     - Using metaproteomics to study microbial activity in situ - Hands-on: 'day04/metatranscriptomics_handson.md'
 - Day05 - Metametabolomics:
     - Introduction to Metabolomics: 'day05/intro_metabolomics.md'
-    - Analytical Basics, Data-Processing and Metabolite Identification in Metabolomics: "day05/analytical_vasica-data_processing-metabolite_identification.md"
+    - Analytical Basics, Data-Processing and Metabolite Identification in Metabolomics: 'day05/analytical_vasica-data_processing-metabolite_identification.md'
     - Metabolite Identification: 'day05/metabolite_identification.md'
     - Multi-omics integration - amplicon-seq & metabolomics: 'day05/amplicon_seq-metabolomics.md'
     - Multi-omics integration - genome scale metabolic models: 'day05/multi_omics-genome_centric_view.md'
