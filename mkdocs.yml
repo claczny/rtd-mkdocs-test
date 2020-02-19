@@ -1,38 +1,44 @@
-site_name: EMBO Practical Course - Integrated multi-omic analyses of microbial communities
-pages:
+site_name: EMBO Practical Course 2020 - Integrated multi-omic analyses of microbial communities
+
+nav:
 - Home: 'index.md'
 - Day01 - The Why and the How:
-    - Lecture AM: 'day01/multiomics_why.md'
-    - Technical intro AM: 'technical_intro.md'
-    - Hands-on PM: 'snakemake.md' 
+    - Multi-omics - Why characterize other omes as well?!: 'day01/multiomics_why.md'
+    - Technical Intro - Coursework folders, git, VMs etc: 'day01/technical_intro.md'
+    - Snakemake - Hands-on: 'day01/nakemake.md' 
 - Day02 - Metagenomics:
-    - Lecture AM: 'day02/concepts-history-next_steps-assembly.md'
-    - Lecture and Hands-on PM: 'day02/binning.md'
+    - Metagenomics - Concepts, history, and next advances: 'day02/concepts-history-next_steps-assembly.md'
+    - Binning of Metagenomic Data: 'day02/binning.md'
 - Day03 - Diversity & function:
-    - Lecture and Hands-on AM: 'day03/taxonomy-gene_calling-annotation.md'
-    - Hands-on PM: 'day03/phendb.md'
+    - Taxonomy, phylogeny and diversity measures: 'day03/taxonomy-gene_calling-annotation.md'
+    - De novo gene calling & annotation: 'day03/de_novo_gene_calling-annotation.md'
+    - PhenDB: 'day03/phendb.md'
 - Day04 - Functional omics:
-    - Lecture and Hands-on AM: 'day04/metatranscriptomics.md'
-    - Lecture AM: 'day04/metaproteomics.md'
-    - Lecture PM: 'day04/biomolecular_extractions.md'
-    - Hands-on PM: 'day04/metatranscriptomics_handson.md'
+    - Using metatranscriptomics to study active metabolic pathways in situ: 'day04/metatranscriptomics.md'
+    - Metaproteomics - sequences and masses: 'day04/metaproteomics.md'
+    - Biomolecular extraction for integrative multi-omics: 'day04/biomolecular_extractions.md'
+    - Using metaproteomics to study microbial activity in situ - Hands-on: 'day04/metatranscriptomics_handson.md'
 - Day05 - Metametabolomics:
-    - Lecture AM: 'day05/intro_metabolomics.md'
-    - Lecture and Hands-on AM: "day05/analytical_vasica-data_processing-metabolite_identification.md"
-    - Hands-on PM: 'day05/metabolite_identification.md'
-    - Lecture and Hands-on PM: 'day05/multi_omics-gene_centric_view.md'
-    - Lecture and Hands-on PM: 'day05/multi_omics-genome_centric_view.md'
+    - Introduction to Metabolomics: 'day05/intro_metabolomics.md'
+    - Analytical Basics, Data-Processing and Metabolite Identification in Metabolomics: "day05/analytical_vasica-data_processing-metabolite_identification.md"
+    - Metabolite Identification: 'day05/metabolite_identification.md'
+    - Multi-omics integration - amplicon-seq & metabolomics: 'day05/amplicon_seq-metabolomics.md'
+    - Multi-omics integration - genome scale metabolic models: 'day05/multi_omics-genome_centric_view.md'
 - Day06 - Multitrophic / Interkingdom interactions:
-    - Lecture AM: 'day06/archaea.md'
-    - Lecture AM: 'day06/microbe_host_interaction.md'
-    - Lecture PM: 'day06/virus_host_interaction.md'
-    - Hands-On PM: 'day06/vogdb_effectivedb.md'
+    - Archaea and microbe/host interactions: 'day06/archaea.md'
+    - Microbe and Host interaction, EffectiveDB: 'day06/microbe_host_interaction.md'
+    - Virus and Host interaction, VogDB: 'day06/virus_host_interaction.md'
 - Day07 - Single-cell analyses and data integration:
-    - Lecture AM: 'day07/single_cell.md'
-    - Lecture and Hands-on PM: 'day07/normalisation_of_mda_data.md'
-    - Hands-on PM: 'day07/multi_omic_data_integration.md'
+    - Single-cell resolution of mixed microbial communities: 'day07/single_cell.md'
+    - Normalisation of MDA data: 'day07/normalisation_of_mda_data.md'
+    - Multi-Omic Data Integration in R: 'day07/multi_omic_data_integration.md'
+    - Multi-omics integration - gene centric view: 'day05/multi_omics-gene_centric_view.md'
 - Day08 - Microbial ecology & network inference:
-    - Lecture AM: 'day08/community_assembly_and_functioning.md'
-    - Lecture AM: 'day08/inference_and_analysis_of_microbial_networks.md'
-    - Hands-on AM: 'day08/inference_and_analysis_of_microbial_networks_applied.md'
+    - Community assembly and functioning in microbial ecology: 'day08/community_assembly_and_functioning.md'
+    - Inference and analysis of microbial networks: 'day08/inference_and_analysis_of_microbial_networks.md'
+    - Inference and analysis of microbial networks - Hands-on: 'day08/inference_and_analysis_of_microbial_networks_applied.md'
+
 theme: readthedocs
+markdown_extensions:
+    - toc:
+        toc_depth: 2
