@@ -11,7 +11,9 @@ Instead, I followed https://readthedocs.org/accounts/social/connections/ and sel
 There, I needed to allow readthedocs to connect.
 Following this, I went to https://readthedocs.org/dashboard/ and clicked on the "Import a project" button.
 From the list of my repositories, I selected the one of interest (https://github.com/claczny/rtd-mkdocs-test), clicked on the "+" button and did some basic set-up.
-This automatically added the respective webhook to the GitHub repository, which can be seen on the repo-page -> "Settings" -> "Webhooks"
+This automatically added the respective webhook to the GitHub repository, which can be seen on the repo-page -> "Settings" -> "Webhooks".
+
+Alternatively, following the instructions at https://docs.readthedocs.io/en/stable/webhooks.html#github should probably also work, but I found the above simpler.
 
 The first build succeeded, but seems to have been a dummy built, using `Sphinx` instead of `MkDocs`.
 I then went back to the RTD dashboard, selected the newly created project (`embo2020-rtd-mkdocs-test`), clicked on "Admin" -> "Advanced settings" ->"Documentation type" and changed this to "MkDocs (Markdown".
