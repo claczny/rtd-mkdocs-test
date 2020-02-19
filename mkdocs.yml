@@ -1,9 +1,8 @@
-site_name: My Docs
+site_name: EMBO Practical Course - Integrated multi-omic analyses of microbial communities
 pages:
 - Home: 'index.md'
-- Tools:
-    - SSH: 'tools/ssh.md'
-    - Git: 'tools/git.md'
-- Configuration:
-    - CA Certificates: 'config/certificates/README.md'
+- Day01:
+    - Session01: 'day01/session01.md'
+- Day02:
+    - Session02: 'day02/session01.md'
 theme: readthedocs
