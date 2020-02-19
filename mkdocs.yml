@@ -2,6 +2,7 @@ site_name: EMBO Practical Course 2020 - Integrated multi-omic analyses of microb
 
 nav:
 - Home: 'index.md'
+- Preparation prior to the course: 'preparation.md'
 - Day01 - The Why and the How:
     - Multi-omics - Why characterize other omes as well?!: 'day01/multiomics_why.md'
     - Technical Intro - Coursework folders, git, VMs etc: 'day01/technical_intro.md'
