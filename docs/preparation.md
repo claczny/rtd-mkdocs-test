@@ -23,7 +23,7 @@ Please note that these should not be distributed, unless the respective licenses
 - [Williams, 2017, PNAS](https://www.ncbi.nlm.nih.gov/pubmed/28533395)
 - [Castelle and Banfield, 2018, Cell](https://www.ncbi.nlm.nih.gov/pubmed/29522741)
 
-# Biomolecular extraction
+### Biomolecular extraction
 - [Roume, 2013, ISME J](https://www.ncbi.nlm.nih.gov/pubmed/22763648)
 - [Muller, 2014, Nature Communications](https://www.ncbi.nlm.nih.gov/pubmed/25424998)
 
