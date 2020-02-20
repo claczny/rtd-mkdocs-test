@@ -8,6 +8,9 @@ The access password was or will soon be sent to you.
 Please note that these should not be distributed, unless the respective licenses allow so.
 
 ### Metagenomics
+- [Sharon, Banfield, 2013, Science](https://www.ncbi.nlm.nih.gov/pubmed/24288324)
+- [Sieber, 2018, Nature Microbiology](https://www.ncbi.nlm.nih.gov/pubmed/29807988)
+- [Brown, 2016, Nature Biotechnology](https://www.ncbi.nlm.nih.gov/pubmed/27819664)
 
 ### Metatranscriptomics
 
