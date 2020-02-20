@@ -18,7 +18,9 @@ Please note that these should not be distributed, unless the respective licenses
 
 ### Metametabolomics
 
-### Microbial ecology
+### Microbial ecology and networks
+- [Fromont, 2019, Molecular Ecology](https://www.ncbi.nlm.nih.gov/pubmed/30714238)
+- [Roettjers and Faust, 2018, FEMS Microbiology Reviews](https://www.ncbi.nlm.nih.gov/pubmed/30085090)
 
 ### The archaeal domain
 - [Zaremba, 2017, Nature](https://www.ncbi.nlm.nih.gov/pubmed/28077874)

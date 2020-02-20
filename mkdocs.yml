@@ -39,7 +39,10 @@ nav:
     - Inference and analysis of microbial networks: 'day08/inference_and_analysis_of_microbial_networks.md'
     - Inference and analysis of microbial networks - Hands-on: 'day08/inference_and_analysis_of_microbial_networks_applied.md'
 
-theme: readthedocs
+theme: 
+    name: readthedocs
+    custom_dir: embo2020_theme/
+
 markdown_extensions:
     - toc:
         toc_depth: 2
