@@ -1,4 +1,6 @@
-# EMBO Practical Course - Integrated multi-omic analyses of microbial communities (16 - 23 March 2020)
+<p align="center">
+  <img src="img/EMBO_PracticalCourse_Header_01.png">
+</p>
 
 Welcome to our 8-day course on integrating multi-omic data to study mixed microbial communities.
 You can find the detailed schedule on the [course website](https://meetings.embo.org/event/20-microbial-communities#Programme).
